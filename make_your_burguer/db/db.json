@@ -129,6 +129,20 @@
       ],
       "status": "Solicitado",
       "id": 5
+    },
+    {
+      "nome": "Maria Cecília",
+      "carne": "Picanha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Tomate",
+        "Cebola roxa",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 6
     }
   ]
 }
