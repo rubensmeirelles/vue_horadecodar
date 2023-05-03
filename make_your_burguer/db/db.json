@@ -83,7 +83,7 @@
       "carne": "Alcatra",
       "pao": "Integral",
       "opcionais": [],
-      "status": "Em produção",
+      "status": "Finalizado",
       "id": 1
     },
     {
@@ -95,7 +95,7 @@
         "Tomate",
         "Alface"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 3
     },
     {
@@ -119,32 +119,6 @@
       ],
       "status": "Solicitado",
       "id": 5
-    },
-    {
-      "nome": "Maria Cecília",
-      "carne": "Picanha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Tomate",
-        "Cebola roxa",
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 6
-    },
-    {
-      "nome": "Pedro Lucas",
-      "carne": "Maminha",
-      "pao": "Integral",
-      "opcionais": [
-        "Bacon",
-        "Tomate",
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 7
     }
   ]
 }
