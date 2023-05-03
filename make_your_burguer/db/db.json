@@ -83,7 +83,7 @@
       "carne": "Alcatra",
       "pao": "Integral",
       "opcionais": [],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 1
     },
     {
@@ -105,7 +105,7 @@
       "opcionais": [
         "Alface"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 4
     },
     {
@@ -133,6 +133,18 @@
       ],
       "status": "Solicitado",
       "id": 6
+    },
+    {
+      "nome": "Pedro Lucas",
+      "carne": "Maminha",
+      "pao": "Integral",
+      "opcionais": [
+        "Bacon",
+        "Tomate",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 7
     }
   ]
 }
