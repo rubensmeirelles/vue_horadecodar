@@ -88,16 +88,6 @@
     },
     {
       "nome": "RUBENS D MEIRELLES",
-      "carne": "Veggie burger",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "opcional.tipo"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "nome": "RUBENS D MEIRELLES",
       "carne": "Maminha",
       "pao": "3 Queijos",
       "opcionais": [
